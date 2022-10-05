@@ -17,22 +17,22 @@ in your `readme` feel free to replace the text we've provided here. -->
 
 - Download the repository and install dependencies:
 
-**npm install**
-**cd frontend**
-**npm install**
+**npm install**\
+**cd frontend**\
+**npm install**\
 **cd ..** and return to root directory
 
 - To start the application:
 
-  starting Next.js app:
-  1: cd into frontend and use **npm run dev**
-  or
-  2: **npm run client** in root directory
+  starting Next.js app:\
+  1: cd into frontend and use **npm run dev**\
+  or\
+  2: **npm run client** in root directory\
 
-  starting back end server:
+  starting back end server:\
   **npm run server**
 
-  starting both server and client:
+  starting both server and client:\
   **npm run dev**
 
-# frontend devs should only install dependencies into the frontend folder
+_frontend devs should only install dependencies into the frontend folder_
