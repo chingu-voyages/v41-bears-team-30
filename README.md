@@ -28,7 +28,7 @@ To start the application:
 - starting Next.js app:\
   1: cd into frontend and use **npm run dev**\
   or\
-  2: **npm run client** in root directory\
+  2: **npm run client** - in root directory
 
 - starting back end server:\
   **npm run server**
