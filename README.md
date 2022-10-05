@@ -20,7 +20,7 @@ Download the repository and install dependencies:
 - **npm install**
 - **cd frontend**
 - **npm install**
-- **cd ..**
+- **cd ..**/
   and return to root directory
 
 To start the application:
